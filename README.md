@@ -1,4 +1,4 @@
-# Azure-deployment-of-virtual-machine
+#Infrastructure as a Service: Web Server deployment 
 Deployed a Windows Server VM in Azure, connected via RDP, and installed IIS to get it serving a web page over its public IP.
 
 # Azure Windows Server Deployment (Provisioning a VM, RDP Access, and IIS Web Server Setup)
